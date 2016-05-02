@@ -1,5 +1,3 @@
 # repo
 Example Repo
-
-This solves issue #5
-
+Change in readme from Local Rana
